@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maru-Kun</h1>
+<h1 align="center">Hi 👋, I'm Maru</h1>
 <h3 align="center">A passionate fullstack developer from Greece</h3>
 
 - 🌱 I’m currently learning **Node, Express, Vue**
