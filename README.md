@@ -15,7 +15,7 @@
   <li>Seeking <strong>remote opportunities</strong> with US/Canadian companies</li>
 </ul>
 
-<p>When I’m not coding, I enjoy restoring old gaming consoles, exploring retro tech, and diving into classic hardware projects.</p>
+<p>When I’m not coding, I enjoy restoring old gaming consoles, exploring retro tech.</p>
 
 <p><strong>📫 Contact me at:</strong> marukun.dev@gmail.com</p>
 
