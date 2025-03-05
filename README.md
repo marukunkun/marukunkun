@@ -10,11 +10,9 @@
 </p><br>
 
 <div align="center">
-  <ul>
-    <li>🚀 Comfortable with <strong>Git workflows</strong> (always refining my rebase game!)</li><br>
-    <li>🧩 Love working with <strong>arrays of objects</strong> and tackling complex logic</li><br>
-    <li>🌍 Seeking <strong>remote opportunities</strong> with US/Canadian companies</li><br>
-  </ul><br>
+    <p>🚀 Comfortable with <strong>Git workflows</strong> (always refining my rebase game!)</p><br>
+    <p>🧩 Love working with <strong>arrays of objects</strong> and tackling complex logic</p><br>
+    <p>🌍 Seeking <strong>remote opportunities</strong> with US/Canadian companies</p><br>
 </div>
 
 <p align="center">When I’m not coding, I enjoy exploring retro tech.</p><br>
