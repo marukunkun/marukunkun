@@ -5,9 +5,9 @@
 <p></p>I specialize in JavaScript, React, Node.js, and everything in between.</p>
 
 <ul>
-  <li>🔹 Comfortable with Git workflows (always refining my rebase game!)</li>
-  <li>🔹 Love working with arrays of objects and tackling complex logic</li>
-  <li>🔹 Seeking remote opportunities with US/Canadian companies</li>
+  <li> Comfortable with Git workflows (always refining my rebase game!)</li>
+  <li> Love working with arrays of objects and tackling complex logic</li>
+  <li> Seeking remote opportunities with US/Canadian companies</li>
 </ul>
 
 <p>When I’m not coding, I enjoy restoring old gaming consoles, exploring retro tech, and diving into classic hardware projects. 🎮🔧</p>
