@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maru</h1>
 <h3 align="center">💻 Full-Stack JavaScript Developer | Open to Remote Opportunities</h3>
 
-<p align="center">
+<p>
   I'm a mid-level full-stack JavaScript developer passionate about building clean, efficient, and user-friendly web applications.
 </p>
 
-<p align="center">
+<p>
   I specialize in <strong>JavaScript, React, Node.js</strong>, and everything in between.
 </p>
 
