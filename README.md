@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Maru</h1>
 <h3 align="center">💻 Full-Stack JavaScript Developer | Open to Remote Opportunities</h3>
 
-<p>
+<p align="center">
   I'm a mid-level full-stack JavaScript developer passionate about building clean and efficient applications.
-</p>
+</p><br>
 
-<p>
+<p align="center">
   I specialize in <strong>JavaScript, React, Node.js</strong>, and everything in between.
-</p>
+</p><br>
 
-<ul>
+<ul align="center">
   <li>🚀 Comfortable with <strong>Git workflows</strong> (always refining my rebase game!)</li><br>
   <li>🧩 Love working with <strong>arrays of objects</strong> and tackling complex logic</li><br>
   <li>🌍 Seeking <strong>remote opportunities</strong> with US/Canadian companies</li><br>
-</ul>
+</ul><br>
 
-<p>When I’m not coding, I enjoy exploring retro tech.</p>
+<p align="center">When I’m not coding, I enjoy exploring retro tech.</p><br>
 
-<p><strong>📫 Contact me at:</strong> marukun.dev@gmail.com</p>
+<p align="center"><strong>📫 Contact me at:</strong> marukun.dev@gmail.com</p><br>
 
 ---
 
