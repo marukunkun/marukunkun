@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack JavaScript Developer | Open to Remote Opportunities</h3>
 
 <p>
-  I'm a mid-level full-stack JavaScript developer passionate about building clean, efficient, and user-friendly web applications.
+  I'm a mid-level full-stack JavaScript developer passionate about building clean and efficient applications.
 </p>
 
 <p>
