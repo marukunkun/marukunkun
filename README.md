@@ -9,11 +9,11 @@
   I specialize in <strong>JavaScript, React, Node.js</strong>, and everything in between.
 </p><br>
 
-<ol align="center" style="list-style-type:none;">
+<ul>
   <li>🚀 Comfortable with <strong>Git workflows</strong> (always refining my rebase game!)</li><br>
   <li>🧩 Love working with <strong>arrays of objects</strong> and tackling complex logic</li><br>
   <li>🌍 Seeking <strong>remote opportunities</strong> with US/Canadian companies</li><br>
-</ol><br>
+</ul><br>
 
 <p align="center">When I’m not coding, I enjoy exploring retro tech.</p><br>
 
