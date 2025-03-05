@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Maru</h1>
-<h3 align="center">A passionate fullstack developer from Greece</h3>
+<h3 align="center">💻 Full-Stack JavaScript Developer | Open to Remote Opportunities</h3>
 
-- 🌱 I’m currently learning **Node, Express, Vue**
+I'm a mid-level full-stack JavaScript developer passionate about building clean, efficient, and user-friendly web applications.
+I specialize in JavaScript, React, Node.js, and everything in between.
 
-- 📫 How to reach me **marukun.dev@gmail.com**
+🔹 Comfortable with Git workflows (always refining my rebase game!)
+🔹 Love working with arrays of objects and tackling complex logic
+🔹 Seeking remote opportunities with US/Canadian companies
+
+When I’m not coding, I enjoy restoring old gaming consoles, exploring retro tech, and diving into classic hardware projects. 🎮🔧
+
+Let’s connect! 🚀
+
+📫 How to reach me **marukun.dev@gmail.com**
 
 <p align="left">
 </p>
