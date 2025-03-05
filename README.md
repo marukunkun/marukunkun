@@ -10,18 +10,18 @@
 </p>
 
 <ul>
-  <li>Comfortable with <strong>Git workflows</strong> (always refining my rebase game!)</li>
-  <li>Love working with <strong>arrays of objects</strong> and tackling complex logic</li>
-  <li>Seeking <strong>remote opportunities</strong> with US/Canadian companies</li>
+  <li>🚀 Comfortable with <strong>Git workflows</strong> (always refining my rebase game!)</li><br>
+  <li>🧩 Love working with <strong>arrays of objects</strong> and tackling complex logic</li><br>
+  <li>🌍 Seeking <strong>remote opportunities</strong> with US/Canadian companies</li><br>
 </ul>
 
-<p>When I’m not coding, I enjoy restoring old gaming consoles, exploring retro tech.</p>
+<p>When I’m not coding, I enjoy exploring retro tech.</p>
 
 <p><strong>📫 Contact me at:</strong> marukun.dev@gmail.com</p>
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<h3 align="center">Languages:</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
