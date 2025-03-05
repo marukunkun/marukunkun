@@ -6,7 +6,9 @@
 
 <ul>
   <li> Comfortable with Git workflows (always refining my rebase game!)</li>
+  
   <li> Love working with arrays of objects and tackling complex logic</li>
+  
   <li> Seeking remote opportunities with US/Canadian companies</li>
 </ul>
 
